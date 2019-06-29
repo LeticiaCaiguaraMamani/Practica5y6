@@ -1,5 +1,5 @@
 package com.example.demostracion;
-
+//hi
 import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -83,5 +83,3 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 }
-
-
